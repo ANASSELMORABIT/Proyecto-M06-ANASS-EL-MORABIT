@@ -117,10 +117,10 @@ function crearTarjetas(filosofos) {
             // Añadimos contenido caja de habilidad
 
             // 1.Icono de habilidad
-            let icono = document.createElement('img');
-            icono.src = 'https://via.placeholder.com/16';
-            icono.alt = `Icono de ${infoHabilidad}`;
-            habilidad.append(icono);
+            // let icono = document.createElement('img');
+            // icono.src = 'https://via.placeholder.com/16';
+            // icono.alt = `Icono de ${infoHabilidad}`;
+            // habilidad.append(icono);
 
             
             // 2.Etiqueta de habilidad
